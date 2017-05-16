@@ -25,8 +25,8 @@ Um den ATTiny45/85 zu programmieren verwenden wir den Arduino als Programmier-Ge
 * Fritzing.org EDA
 * Arduino Duemilanove
 * Steckplatine
-* RGB LED ![APA106-F8](https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf)
-* Mikrokontroller ![ATTiny85 (oder ATTiny45)](http://www.atmel.com/images/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf)
-* Spannungsregler ![7805](https://www.sparkfun.com/datasheets/Components/LM7805.pdf)
-* Rayher ![Holz-Schatulle](https://rayher-hobby-shop.de/Basteltrends-Aktuelles/Saisonthemen/Hochzeit-Liebe/Accessoires/Boxen-Schachteln/Holz-Schatulle-FSC-Mix-Credit-1.html)
-* Rayher ![Plastik Eier 4,5 cm](https://rayher-hobby-shop.de/Brands-Aktuelles/Ostern/Deko-Artikel-O1/Aug-13/Plastik-Eier-oxid-2.html)
+* RGB LED [APA106-F8](https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf)
+* Mikrokontroller [ATTiny85 (oder ATTiny45)](http://www.atmel.com/images/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf)
+* Spannungsregler [7805](https://www.sparkfun.com/datasheets/Components/LM7805.pdf)
+* Rayher [Holz-Schatulle](https://rayher-hobby-shop.de/Basteltrends-Aktuelles/Saisonthemen/Hochzeit-Liebe/Accessoires/Boxen-Schachteln/Holz-Schatulle-FSC-Mix-Credit-1.html)
+* Rayher [Plastik Eier 4,5 cm](https://rayher-hobby-shop.de/Brands-Aktuelles/Ostern/Deko-Artikel-O1/Aug-13/Plastik-Eier-oxid-2.html)
