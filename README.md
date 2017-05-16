@@ -21,8 +21,8 @@ Um den ATTiny45/85 zu programmieren verwenden wir den Arduino als Programmier-Ge
 
 
 ## Werkzeuge und Material
-* Arduino IDE
-* Fritzing.org EDA
+* [Arduino IDE](http://www.arduino.cc/)
+* [Fritzing.org EDA](http://www.fritzing.org/)
 * Arduino Duemilanove
 * Steckplatine
 * RGB LED [APA106-F8](https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf)
