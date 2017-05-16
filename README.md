@@ -23,7 +23,8 @@ Um den ATTiny45/85 zu programmieren verwenden wir den Arduino als Programmier-Ge
 ## Werkzeuge und Material
 * [Arduino IDE](http://www.arduino.cc/)
 * [Fritzing.org EDA](http://www.fritzing.org/)
-* Arduino Duemilanove
+* Vektor Grafik Editor [Inkscape](https://inkscape.org/)
+* [Arduino Duemilanove](https://www.arduino.cc/en/Main/arduinoBoardDuemilanove) oder Ähnlich
 * Steckplatine
 * RGB LED [APA106-F8](https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf)
 * Mikrokontroller [ATTiny85 (oder ATTiny45)](http://www.atmel.com/images/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf)
