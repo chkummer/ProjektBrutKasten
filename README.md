@@ -22,7 +22,9 @@ Um den ATTiny45/85 zu programmieren verwenden wir den Arduino als Programmier-Ge
 
 ## Werkzeuge und Material
 * Arduino IDE
-* Fritzing.org
+* Fritzing.org EDA
 * Arduino Duemilanove
-* Breadboard
+* Steckplatine
 * RGB LED APA106-8
+* Mikrokontroller ATTiny85 (oder ATTiny45)
+* Spannungsregler 7805
