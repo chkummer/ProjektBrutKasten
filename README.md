@@ -1,5 +1,7 @@
 # Projekt Brut-Kasten
 
+![Der Brut-Kasten](ProjektBrutKasten_03.jpg)
+
 ## Aufbau 'Proof of Concept'
 Die RGB LED's vom Typ APA106-8 haben jeweils einen digitalen Ein- und Ausgang. Somit kann man relativ einfach viele LED's mit nur einem digitalem Pin des Arduino ansteuern. 
 Um zu sehen ob die Idee mit einem Arduino-Board, APA106-8 RGB LED und der Neo-Pixel Bibliothek funktioniert habe ich folgenden Aufbau gemacht:
@@ -17,8 +19,13 @@ Und die entsprechende Leiterplatte:
 
 ![Leiterplatte](ProjektBrutKasten_Leiterplatte.png)
 
+## Programmierung des ATtiny85
 Um den ATTiny45/85 zu programmieren verwenden wir den Arduino als Programmier-Gerät ([hier eine Anleitung](http://highlowtech.org/?p=1695)).
+![Der Brut-Kasten](ProjektBrutKasten_01.jpg)
 
+## Das bemahlen der Eier
+Das bemahlen der Eier habe ich mit einen Egg-Bot durchgeführt:
+![Der Brut-Kasten](ProjektBrutKasten_02.jpg)
 
 ## Werkzeuge und Material
 * [Arduino IDE](http://www.arduino.cc/)
