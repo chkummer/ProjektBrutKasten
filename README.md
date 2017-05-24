@@ -36,5 +36,11 @@ Das bemahlen der Eier habe ich mit einen Egg-Bot durchgeführt:
 * RGB LED [APA106-F8](https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf)
 * Mikrokontroller [ATTiny85 (oder ATTiny45)](http://www.atmel.com/images/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf)
 * Spannungsregler [7805](https://www.sparkfun.com/datasheets/Components/LM7805.pdf)
+* [CNC Fräse](https://aliexpress.com/item/CNC-2418-GRBL-control-Diy-CNC-machine-working-area-24x18x4-5cm-3-Axis-Pcb-Pvc-Milling/32704119622.html) 
+* [PCB milling cutter](https://aliexpress.com/item/High-quality-10pcs-lot-Titanium-Nitride-Coated-Carbide-PCB-CNC-milling-cutter-0-8mm-3/32719367945.html)
+* [Engraving bits](https://aliexpress.com/item/New-10pcs-New-Mini-PCB-wood-drill-Bits-Tungsten-Steel-Carbide-PCB-CNC-drill-Bit-Milling/32702792947.html)
 * Rayher [Holz-Schatulle](https://rayher-hobby-shop.de/Basteltrends-Aktuelles/Saisonthemen/Hochzeit-Liebe/Accessoires/Boxen-Schachteln/Holz-Schatulle-FSC-Mix-Credit-1.html)
 * Rayher [Plastik Eier 4,5 cm](https://rayher-hobby-shop.de/Brands-Aktuelles/Ostern/Deko-Artikel-O1/Aug-13/Plastik-Eier-oxid-2.html)
+
+## Video
+Ein kurzes Video kann man sich bei [YouTube](https://www.youtube.com/watch?v=r_lHXrtwGJQ) ansehen.
