@@ -21,11 +21,11 @@ Und die entsprechende Leiterplatte:
 
 ## Programmierung des ATtiny85
 Um den ATTiny45/85 zu programmieren verwenden wir den Arduino als Programmier-Gerät ([hier eine Anleitung](http://highlowtech.org/?p=1695)).
-![Der Brut-Kasten](ProjektBrutKasten_01.jpg)
+![Der Brut-Kasten](ProjektBrutKasten_02.jpg)
 
 ## Das bemahlen der Eier
-Das bemahlen der Eier habe ich mit einen Egg-Bot durchgeführt:
-![Der Brut-Kasten](ProjektBrutKasten_02.jpg)
+Das bemahlen der Eier habe ich mit einen [Egg-Bot](http://egg-bot.com) durchgeführt:
+![Der Brut-Kasten](ProjektBrutKasten_01.jpg)
 
 ## Werkzeuge und Material
 * [Arduino IDE](http://www.arduino.cc/)
@@ -39,8 +39,9 @@ Das bemahlen der Eier habe ich mit einen Egg-Bot durchgeführt:
 * [CNC Fräse](https://aliexpress.com/item/CNC-2418-GRBL-control-Diy-CNC-machine-working-area-24x18x4-5cm-3-Axis-Pcb-Pvc-Milling/32704119622.html) 
 * [PCB milling cutter](https://aliexpress.com/item/High-quality-10pcs-lot-Titanium-Nitride-Coated-Carbide-PCB-CNC-milling-cutter-0-8mm-3/32719367945.html)
 * [Engraving bits](https://aliexpress.com/item/New-10pcs-New-Mini-PCB-wood-drill-Bits-Tungsten-Steel-Carbide-PCB-CNC-drill-Bit-Milling/32702792947.html)
+* [Egg-Bot](http://egg-bot.com) (weitere Informationen sind im [WiKi](http://wiki.evilmadscientist.com/The_Original_Egg-Bot_Kit) zu finden)
 * Rayher [Holz-Schatulle](https://rayher-hobby-shop.de/Basteltrends-Aktuelles/Saisonthemen/Hochzeit-Liebe/Accessoires/Boxen-Schachteln/Holz-Schatulle-FSC-Mix-Credit-1.html)
-* Rayher [Plastik Eier 4,5 cm](https://rayher-hobby-shop.de/Brands-Aktuelles/Ostern/Deko-Artikel-O1/Aug-13/Plastik-Eier-oxid-2.html)
+* Rayher [Plastik Eier 4,5 cm](https://rayher-hobby-shop.de/Brands-Aktuelles/Ostern/Deko-Artikel-O1/Aug-13/Plastik-Eier-oxid-2.html) und [Plastik Eier 3,8 cm](https://rayher-hobby-shop.de/Brands-Aktuelles/Ostern/Deko-Artikel-O1/Aug-13/Mini-Plastik-Eier-weiss-Beutel-5.html)
 
 ## Video
 Ein kurzes Video kann man sich bei [YouTube](https://www.youtube.com/watch?v=r_lHXrtwGJQ) ansehen.
